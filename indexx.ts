@@ -71,4 +71,4 @@ function main() {
 }
 main();
 
-console.log("un coñoemadre nada ");
+console.log("un coñoemadre nada ","naah mentira");
