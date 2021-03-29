@@ -70,3 +70,5 @@ function main() {
   testClaseEdificio();
 }
 main();
+
+console.log("un coñoemadre nada ");
